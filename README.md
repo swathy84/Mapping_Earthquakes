@@ -18,26 +18,26 @@ In this project,we used Leaflet.js to populate a geographical map with GeoJSON e
 
 ##### logicStep1.js
 
-[logicStep1.js](static/js/logicStep1.js) -  displays the map with all recorded earthquakes in past 7 days.
+[logicStep1.js](Earthquakes_past7days/static/js/logicStep1.js) -  displays the map with all recorded earthquakes in past 7 days.
 
 ![main](resources/logic.png)
  
 
  ##### logicStep2.js
 
-[logicStep2.js](static/js/logicStep2.js) -  displays the map with all recorded earthquakes in past 7 days with some styling to the data and varied radius of each earthquake based on magnitude.
+[logicStep2.js](Earthquakes_past7days/static/js/logicStep2.js) -  displays the map with all recorded earthquakes in past 7 days with some styling to the data and varied radius of each earthquake based on magnitude.
 
 ![main](resources/logicStep2.png)
 
  ##### logicStep3.js
 
-[logicStep3.js](static/js/logicStep3.js) -  displays the map with all recorded earthquakes in past 7 days with some styling to the data and varied radius of each earthquake based on magnitude and also added the magnitude and location as a popup for each earthquake
+[logicStep3.js](Earthquakes_past7days/static/js/logicStep3.js) -  displays the map with all recorded earthquakes in past 7 days with some styling to the data and varied radius of each earthquake based on magnitude and also added the magnitude and location as a popup for each earthquake
 
 ![main](resources/logicStep3.png)
 
  ##### logicStep4.js
 
-[logicStep4.js](static/js/logicStep4.js) -  displays the map with all recorded earthquakes in past 7 days as an overlay on both streets and satellite tile layers . 
+[logicStep4.js](Earthquakes_past7days/static/js/logicStep4.js) -  displays the map with all recorded earthquakes in past 7 days as an overlay on both streets and satellite tile layers . 
 
 ![main](resources/logicStep4.png)
 
@@ -51,7 +51,7 @@ In this analysis, added a third map style as an additional tile laye. Added tect
 3. Added tectonic plate data as the overlay with the earthquake data on the map.
 4. Added third map style to allow the user to select from 3 different maps. 
 
-The street map is default. When selected the map style is present on the map 
+[challenge_logic.js.js](Earthquake_Challenge/static/js/challenge_logic.js.js)The street map is default. When selected the map style is present on the map 
 
 
 ![main](resources/challenge1a.png)
@@ -65,7 +65,7 @@ Adding an overlay for the earthquake and tectonic plate on the map.
 
 ![main](resources/challenge2a.png)
 
-![main](resources/challenge2b.png)
+![main](resources/Challenge2b.png)
 
 ![main](resources/challenge2c.png)
 
