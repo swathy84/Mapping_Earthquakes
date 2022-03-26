@@ -51,7 +51,7 @@ In this analysis, added a third map style as an additional tile laye. Added tect
 3. Added tectonic plate data as the overlay with the earthquake data on the map.
 4. Added third map style to allow the user to select from 3 different maps. 
 
-[challenge_logic.js.js](Earthquake_Challenge/static/js/challenge_logic.js.js)The street map is default. When selected the map style is present on the map 
+[challenge_logic.js](Earthquake_Challenge/static/js/challenge_logic.js) -  The street map is default. When selected the map style is present on the map 
 
 
 ![main](resources/challenge1a.png)
